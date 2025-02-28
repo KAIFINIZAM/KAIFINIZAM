@@ -2,7 +2,7 @@ Hello World, I'm Kaifi, an Indian Web developer 👋:
 
 💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps
 
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/developer-gif-2461104302247665708">
 
 🔹 What I Do:
 
