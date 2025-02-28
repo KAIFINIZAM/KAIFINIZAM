@@ -1,21 +1,26 @@
-Hello World, I'm kaifi, an Indian Web developer 👋
+Hello World, I'm Kaifi, an Indian Web developer 👋:
+
 💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps
 
-🔹 Tech Stack:
-🟢 MERN (MongoDB, Express.js, React.js, Node.js)
-🎨 Frontend: React.js, Next.js, Tailwind CSS, Bootstrap
-🛠 Backend: Node.js, Express.js
-💾 Database: MongoDB, MySQL
+
 
 🔹 What I Do:
+
 🔥 Build full-stack web applications with modern frameworks.
+
 💡 Solve complex problems with clean and efficient code.
+
 🚀 Optimize performance & scalability for web apps.
+
 🔍 Explore new technologies and keep up with trends.
 
+
 🔹 📫 Let's Connect!
+
 💼 LinkedIn: 
+
 📧 Email: kaifinizam@gmail.com
+
 💙 "Code, Create, Innovate!"
 
 
