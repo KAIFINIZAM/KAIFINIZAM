@@ -1,3 +1,4 @@
+![logo](https://github.com/KAIFINIZAM/KAIFINIZAM/blob/main/Purple%20Design%20Nizam%20crop.png)
 Hello World, I'm Kaifi, an Indian Web developer 👋:
 
 💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps
