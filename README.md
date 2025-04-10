@@ -1,6 +1,6 @@
 ![logo](https://github.com/KAIFINIZAM/KAIFINIZAM/blob/main/Purple%20Design%20Nizam%20crop.png)
 
-<h1>Hello World, I'm <i>Kaifi</i>, an Indian Web developer 👋</h1>
+<h1>Hello World, I'm <i>Kaifi</i>, an Indian Web developer👋</h1>
 
 <b>💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps</b>
 
