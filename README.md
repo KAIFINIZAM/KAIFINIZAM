@@ -1,4 +1,4 @@
-![logo](https://github.com/KAIFINIZAM/KAIFINIZAM/blob/main/Purple%20Design%20Nizam%20crop.png)
+![logo](https://github.com/KAIFINIZAM/KAIFINIZAM/blob/main/Kaifi%20Nizammm.png)
 
 <h1>Hello World, I'm <i>Kaifi</i>, an Indian Web developer👋</h1>
 
