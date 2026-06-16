@@ -19,17 +19,12 @@
 
 🔍 Explore new technologies and keep up with trends.
 
-
-🔹 📫 Let's Connect!
-
-💼 LinkedIn: linkedin.com/in/kaifi-nizam-b292a4256
-
-📧 Email: kaifinizam@gmail.com
-
 💙 "Code, Create, Innovate!"
 
 
 ## 🌐 Socials:
+
+🔹 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaifi-nizam-b292a4256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaifinizam@gmail.com) 
 
 # 💻 Tech Stack:
