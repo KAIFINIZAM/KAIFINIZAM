@@ -1,6 +1,6 @@
 ![logo](https://github.com/KAIFINIZAM/KAIFINIZAM/blob/main/Kaifi%20Nizammm.png)
 
-<h1>Hello World, I'm <i>Kaifi</i>, an Indian Web developer👋</h1>
+<h1>Hello World, I'm <i>Kaifi</i>, an Indian Developer👋</h1>
 
 <b>💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps</b>
 
@@ -22,7 +22,7 @@
 
 🔹 📫 Let's Connect!
 
-💼 LinkedIn: 
+💼 LinkedIn: linkedin.com/in/kaifi-nizam-b292a4256
 
 📧 Email: kaifinizam@gmail.com
 
