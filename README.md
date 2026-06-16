@@ -2,7 +2,7 @@
 
 <h1>Hello World, I'm <i>Kaifi</i>, an Indian Developer👋</h1>
 
-<b>💻 MERN Stack Developer | 🚀 Passionate About Building Scalable Web Apps</b>
+<b>💻 Salesforce Developer & MERN Stack Developer</b>
 
 <img border="black" align="right" alt="coding" width="300" 
      src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif"
@@ -11,13 +11,11 @@
 
 🔹 What I Do:
 
-🔥 Build full-stack web applications with modern frameworks.
+🚀 Building scalable web applications and enterprise CRM solutions.
 
-💡 Solve complex problems with clean and efficient code.
+⚡ Skilled in Apex, LWC, React, Node.js, Express.js, MongoDB, and Salesforce Integrations.
 
-🚀 Optimize performance & scalability for web apps.
-
-🔍 Explore new technologies and keep up with trends.
+🌱 Continuously learning, building, and solving real-world problems through code.
 
 💙 "Code, Create, Innovate!"
 
